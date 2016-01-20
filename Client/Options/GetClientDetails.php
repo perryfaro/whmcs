@@ -10,7 +10,7 @@ class GetClientDetails extends Option {
      *
      * @var string 
      */
-    protected $action = 'closeclient';
+    protected $action = 'getclientsdetails';
 
     /**
      *
