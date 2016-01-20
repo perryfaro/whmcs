@@ -1,0 +1,11 @@
+{
+    "name": "perryfaro/sdk-whmcs",
+    "autoload": {
+        "psr-4": {
+            "Whmcs\\": ""
+        }
+    },
+    "require": {
+        "prototypeblocks/php-reflection": "~1.0"
+    }
+}
