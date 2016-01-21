@@ -1,5 +1,13 @@
 # WHMCS SDK (unofficial)
 
+## Installation
+
+The WHMCS SDK can be installed with [Composer](https://getcomposer.org/). Run this command:
+
+```sh
+composer require perryfaro/sdk-whmcs
+```
+
 ## Usage
 
 #### setup Authentication
